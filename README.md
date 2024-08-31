@@ -43,6 +43,7 @@
 
 # Business
 - [ ] The Lean Startup - Eric Ries
+- [x] Ethics and the Conduct of Business: Pearson New International Edition - John R. Boatright
 
 # Software
 - [ ] The Essence Of Software: Why Concepts Matter For Great Design - Daniel Jackson
