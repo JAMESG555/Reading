@@ -1,6 +1,7 @@
 # Security
-# Security Engineering
+# Security Architecture
 - [ ] Security Engineering: A Guide To Building Distributed Systems - Ross Anderson
+- [ ] Threat Modeling: Designing for Security - Adam Shostack
       
 # Threat Intelligence
 - [ ] Visual Threat Intelligence: An Illustrated Guide For Threat Researchers - Thomas Roccia
@@ -23,7 +24,7 @@
 # Philosophy
 - [x] How To Think Like A Roman Emperor: The Stoic Philosophy Of Marcus Aurelius - Donald Robertson
 - [x] Ego Is The Enemy - Ryan Holiday
-- [ ] Siddhartha - Hermann Hesse
+- [x] Siddhartha - Hermann Hesse
       
 # DevOps
 - [x] The Phoenix Project - Gene Kim
