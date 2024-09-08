@@ -2,6 +2,9 @@
 # Security Architecture
 - [ ] Security Engineering: A Guide To Building Distributed Systems - Ross Anderson
 - [ ] Threat Modeling: Designing for Security - Adam Shostack
+
+# Web Security
+- [ ] Web Hacking 101 - Peter Yaworski
       
 # Threat Intelligence
 - [ ] Visual Threat Intelligence: An Illustrated Guide For Threat Researchers - Thomas Roccia
