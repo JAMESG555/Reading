@@ -18,6 +18,7 @@
 - [x] Napoleon The Great - Andrew Roberts
 - [x] Edison A Biography - Mathhew Josephson
 - [x] The Tiger: A True Story Of Vengence And Survival
+- [x] The Gulag Archipeligo - Aleksandr Solzhenitsyn
 
 # Investing
 - [x] Millenial Money - Patrick O'Shaugnessy
@@ -43,7 +44,7 @@
 # Fiction
 - [x] The Count Of Monte Cristo - Alexandre Dumas
 - [ ] Crime And Punishment - Fyodor Dostoyevsky
-- [x] The Gulag Archipeligo - Aleksandr Solzhenitsyn
+
 
 # Business
 - [ ] The Lean Startup - Eric Ries
