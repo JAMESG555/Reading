@@ -11,7 +11,7 @@
 
 # Programming
 # Data Structus & Algorithms
-- [ ] Grokking Algorithms - Aditya Y. Bhargava
+- [x] Grokking Algorithms Second Edition - Aditya Y. Bhargava
 
 # Biography
 - [x] The Indifferent Stars Above: The Harrowing Saga of a Donner Party Bride - Daniel James Brown
