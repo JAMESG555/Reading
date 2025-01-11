@@ -10,7 +10,7 @@
 - [ ] Visual Threat Intelligence: An Illustrated Guide For Threat Researchers - Thomas Roccia
 
 # Programming
-# Data Structus & Algorithms
+# Data Structures & Algorithms
 - [x] Grokking Algorithms Second Edition - Aditya Y. Bhargava
 
 # Biography
