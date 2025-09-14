@@ -9,7 +9,7 @@
 - [ ] Web Hacking 101 - Peter Yaworski
       
 # Threat Intelligence
-- [ ] Visual Threat Intelligence: An Illustrated Guide For Threat Researchers - Thomas Roccia
+- [x] Visual Threat Intelligence: An Illustrated Guide For Threat Researchers - Thomas Roccia
 
 # Programming
 # Data Structures & Algorithms
