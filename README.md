@@ -1,4 +1,6 @@
-# Security
+# NIST
+- [x] NIST SP 800-207 Zero Trust Architecture
+      
 # Security Architecture
 - [ ] Security Engineering: A Guide To Building Distributed Systems - Ross Anderson
 - [ ] Threat Modeling: Designing for Security - Adam Shostack
